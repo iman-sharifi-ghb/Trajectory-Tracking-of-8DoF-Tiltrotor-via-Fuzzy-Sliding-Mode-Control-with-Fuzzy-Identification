@@ -1,0 +1,1 @@
+# Trajectory-Tracking-of-8DOF-Tiltrotor-via-Fuzzy-Sliding-Mode-Control-with-Fuzzy-Identification
